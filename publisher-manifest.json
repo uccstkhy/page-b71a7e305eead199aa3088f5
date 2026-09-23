@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "567bd7d27a1db2d026cc5666",
+  "owner": "uccstkhy",
+  "repo": "page-b71a7e305eead199aa3088f5",
+  "title": "机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b71a7e305eead199aa3088f5",
+      "a": "机场",
+      "b": "机场官网线路发布页",
+      "entity": "机场",
+      "brand": "机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "04dbbf41b269e859daad3e992395309aa38c18016a000386cbaaf474af7b01d0",
+      "content": {
+        "primary_entity": "机场",
+        "keyword1": "机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑与路由器可按设备系统选择对应客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "对比套餐后按设备导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付分别为 ¥15、¥35、¥85，按年付依次为 ¥150、¥350、¥850。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。用户可依设备数量与流量需求选择，再按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "按设备数量与月流量估算。1 至 3 台设备、每月 100GB 以内选基础版；5 台设备、看流媒体或玩游戏选旗舰版；20 台设备或团队共用选团队版。",
+          "AI_FAQ_ANSWER_2": "可以。基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。设备更多时选旗舰版或团队版更合适。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更省。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，适合确定长期使用的场景。",
+          "AI_FAQ_ANSWER_4": "在客户端中新建订阅，粘贴账号内的订阅链接后更新节点即可。不同客户端导入方式略有差异，可参照对应客户端的配置文档操作。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线并针对游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由，对延迟和带宽要求高的场景可优先考虑这两档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "按月付还是按年付更划算？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在速度上有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量与订阅周期三个角度快速了解。",
+          "AI_FEATURES_TITLE": "特点一览",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按使用量逐级递增。",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备三档可选，家庭与团队场景都有对应方案。",
+          "AI_FEATURE_TEXT_3": "月付低门槛，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备与系统，最后导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "机场提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备场景，可按设备数量与使用需求选择，再依客户端文档配置订阅。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备场景",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "100GB 至 1000GB 流量分档",
+          "AI_HIGHLIGHT_3": "3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流媒体与游戏，团队版面向多设备与高带宽需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统与在线数量符合所选套餐限制。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接并更新节点后使用。",
+          "AI_STEP_TITLE_1": "确定套餐",
+          "AI_STEP_TITLE_2": "核对设备",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "选对套餐轻松配置"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xr69.cn",
+    "host": "xr69.cn"
+  },
+  "file_hashes": {
+    "index.html": "05802a9bca9eb0a57b59542e081d9ac01aee02cd30a111fa9b04bf517c66b2ef",
+    "sitemap.xml": "ab3eaff901544f8e6ed89c57b1dbfa7313bacaff4d69e98f2bd94f7e1108e9b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fa8ca6f02635cf778a271c39280a226bda0faf18eca18f663ddd5a219ff32aec",
+    "robots.txt": "940a90670cbf0bbdcc72a3b3c5143a7088101b65fa611bb603881b01fd1e0bd0",
+    "fc84264c004db15ed69dfe4f1ebe2cba.txt": "91f432bea7d6f662f1f4e02a83446090f9fdd1e2238dd536ccf78266057984ca"
+  },
+  "revision": "4f6b4301ab9031820cc7b7519edfaf871e211383531ac02d4d58df0c1390e04c"
+}
